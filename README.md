@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 🌱 I’m currently learning Python
+## 🌱 I’m currently learning React.js
 
 ## 📫 How to reach me: mch.gonzalez12@gmail.com
 <!--
